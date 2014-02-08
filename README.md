@@ -4,4 +4,6 @@ checksys
 
 check system infomation
 
-use python 
+use python
+
+must install sys software.
